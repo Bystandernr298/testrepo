@@ -1,0 +1,1 @@
+Another file type to test with, assuming it works the same but testing never hurts.
